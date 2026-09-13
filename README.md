@@ -213,3 +213,6 @@ HTTPS Everywhere is available as a full free version with all features and updat
 ---
 
 Start securing your browsing experience today! Download HTTPS Everywhere for a safer online journey.
+
+---
+**Last updated:** 2026-09-13 20:08:52 UTC
